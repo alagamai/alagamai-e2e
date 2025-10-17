@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Playwright artifacts
+playwright-report/
+playwright-html-report/
+playwright/.cache/
+
+# Test outputs
+test-results/
+
+# Allure artifacts
+allure-results/
+allure-report/
+
+# OS/Editor
+.DS_Store
+*.log
+
+# Env
+.env
+.env.local
