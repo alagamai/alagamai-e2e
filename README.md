@@ -1,4 +1,4 @@
-# alagamai-e2e
+# playwright-auto-generated-by-ai-agent-mcp
 
 End-to-end tests for `alagamai-emp.vercel.app` using Playwright with Allure reports.
 
